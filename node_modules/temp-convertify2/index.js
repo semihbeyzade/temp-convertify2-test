@@ -1,0 +1,9 @@
+module.exports.celsiusToFahrenheit = function (celsius) {
+    let fahrenheit = celsius * 9/5 + 32
+    return fahrenheit;
+}
+
+module.exports.fahrenheitToCelcius = function (fahrenheit) {
+    let celsius = 5/9 * (fahrenheit - 32)
+    return celsius;
+}

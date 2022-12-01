@@ -1,0 +1,23 @@
+{
+  "name": "temp-convertify2-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semihbeyzade/temp-convertify2-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semihbeyzade/temp-convertify2-test/issues"
+  },
+  "homepage": "https://github.com/semihbeyzade/temp-convertify2-test#readme",
+  "dependencies": {
+    "temp-convertify2": "^0.0.1"
+  }
+}
